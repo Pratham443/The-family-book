@@ -21,7 +21,7 @@ var i = 0;
 function next() {
     i++;
     var family_members = 6;
-    if(i > family_members){
+    if(i >= family_members){
         i = 0;
     }
     document.getElementById("name").innerHTML = Names[i];
