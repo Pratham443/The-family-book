@@ -8,12 +8,12 @@ var Names = [
 ];
 
 var images = [
-    "images/cover.jpeg",
-    "images/man.jpg",
-    "images/woman.jpg",
-    "images/boy.jpg",
-    "images/woman2.jpg",
-    "images/teen.jpg"
+    "cover.jpeg",
+    "man.jpg",
+    "woman.jpg",
+    "boy.jpg",
+    "woman2.jpg",
+    "teen.jpg"
 ];
 
 var i = 0;
